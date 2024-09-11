@@ -1,0 +1,200 @@
+                    <!--Header-->.body {
+                        margin: 0;
+                        .skranji-regular {
+                            font-family: "Skranji", system-ui;
+                            font-weight: 400;
+                            font-style: normal;
+                        }
+                        .skranji-bold {
+                            font-family: "Skranji", system-ui;
+                            font-weight: 700;
+                            font-style: normal;
+                        }
+                    }
+                    
+                    .header {
+                        margin: 0;
+                        border-color: #4ba4fe;
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        padding: 6px 18px;
+                        background-color: rgb(136, 214, 244);
+                        border-radius: 25px 25px 0px 0px;
+                        border-style: solid;
+                        border-width: 4px;
+                        height: 40px;
+                    }
+                    
+                    .logo {
+                        width: 40;
+                    }
+                    
+                    .header-links a {
+                        color: rgb(133, 83, 225);
+                        padding: 5px 15px;
+                        text-decoration: none;
+                        font-size: x-large;
+                        align-items: center;
+                        font-weight: bold;
+                    }
+                    
+                    .header-links button {
+                        font-size: large;
+                        color: rgb(245, 237, 3);
+                        background-color: #da0b0b;
+                        font-size: 16px;
+                        border-width: 6px;
+                        border-color: rgb(42, 95, 165);
+                        height: 45px;
+                        width: 7;
+                        font-weight: bold;
+                        border-radius: 25px;
+                        align-items: center;
+                    }
+                    
+                    .header-links a:hover {
+                        color: rgb(202, 235, 93);
+                        background-color: rgb(88, 208, 248);
+                        height: 1000px;
+                        border-width: 70px;
+                        border-radius: 15px;
+                        align-items: center;
+                    }
+                    
+                    .header-links button:hover {
+                        color: rgb(241, 113, 16);
+                        align-items: center;
+                    }
+                    
+                    .landing-bage {
+                        background-color: rgb(241, 113, 16);
+                        align-items: center;
+                        padding: 20px 50px;
+                        align-items: center;
+                        display: flex;
+                        border-radius: 0 0 25px 25px;
+                        border-style: solid;
+                        border-color: rgb(232, 93, 7);
+                        width: 1355px;
+                        border-width: 5px;
+                    }
+                    
+                    .text1 {
+                        color: rgb(247, 8, 8);
+                        font-size: medium;
+                        font-weight: bold;
+                    }
+                    
+                    .body1 {
+                        padding: 5px 250px;
+                        align-items: center;
+                    }
+                    
+                    .body2 {
+                        align-items: center;
+                        padding: 200px;
+                        border-radius: 20px;
+                    }
+                    
+                    .text2 {
+                        color: rgb(28, 135, 16);
+                        font-size: medium;
+                        font-weight: bold;
+                        font-weight: 900;
+                    }
+                    
+                    .text4 {
+                        font-size: medium;
+                        font-weight: bold;
+                        width: 1200px;
+                    }
+                    
+                    .header2 input {
+                        background-color: #95d0f0;
+                        padding: 5px;
+                        border-width: 6px;
+                        border-radius: 20px;
+                        color: rgb(183, 10, 10);
+                        width: 250px;
+                        height: 12px;
+                        padding-left: 20px;
+                        padding-right: 20px;
+                        outline: none;
+                        font-weight: bold;
+                        font-size: medium;
+                    }
+                    
+                    .header2 button {
+                        background-color: #c22410;
+                        position: absolute;
+                        right: 1049px;
+                        top: 355px;
+                        height: 37px;
+                        width: 110px;
+                        border-width: 6px;
+                        margin: 10px;
+                        border-radius: 18px;
+                        font-weight: bold;
+                        color: rgb(255, 247, 4);
+                        padding: 5px 15px;
+                        font-size: medium;
+                        font-weight: bolder;
+                    }
+                    
+                    .text6 {
+                        color: rgb(4, 4, 4);
+                        font-size: small;
+                        padding: 50px;
+                        font-weight: bold;
+                    }
+                    
+                    .text5 {
+                        font-size: medium;
+                        padding: 1px 50px;
+                        align-items: center;
+                    }
+                    
+                    .header3 button {
+                        font-size: x-large;
+                        align-items: center;
+                        font-weight: bold;
+                        background-size: 1000px;
+                        size: 1000;
+                        align-items: center;
+                    }
+                    
+                    .body3 {
+                        padding: 2px 340px;
+                        align-items: center;
+                    }
+                    
+                    .body4 {
+                        padding: 5px 110px;
+                        align-items: center;
+                        justify-content: space-between;
+                    }
+                    
+                    .body5 {
+                        padding: 20px 330px;
+                        align-items: center;
+                    }
+                    
+                    .text7 {
+                        color: rgb(86, 54, 230);
+                        font-size: large;
+                        font-weight: bold;
+                    }
+                    
+                    .body10 {
+                        padding: 8px 100px;
+                        align-items: center;
+                        justify-content: none;
+                        width: 500px;
+                        height: 500px;
+                    }
+                    
+                    .text10 {
+                        font-size: large;
+                        font-weight: bold;
+                    }
